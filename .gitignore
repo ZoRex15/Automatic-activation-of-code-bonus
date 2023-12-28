@@ -1,0 +1,5 @@
+.env
+me_client.session
+me_client.session-journal
+\__pycache__
+venv
